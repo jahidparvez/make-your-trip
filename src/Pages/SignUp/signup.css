@@ -1,0 +1,23 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-row>label {
+    margin-bottom: 10px;
+}
+
+
+.form-group>label {
+    margin-bottom: 10px;
+}
+
+
+.pageTitle {
+    margin-bottom: 40px !important;
+}
+
+.container {
+    padding: 30px 13rem;
+}
